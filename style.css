@@ -243,6 +243,9 @@ section a img{
 }
 /* @israelstudio */
 @media (max-width: 850px) {
+    body {
+        overflowX: hidden;
+    }
     .header1{
         display: flex;
     }
