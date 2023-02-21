@@ -47,6 +47,8 @@ h1{
 .class{
     font-size: 15px;
     margin-left: 25px;
+    display: flex;
+    height: 25px;
 }
 a{
     text-decoration: none;
